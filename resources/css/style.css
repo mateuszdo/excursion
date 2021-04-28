@@ -15,3 +15,10 @@ section {
     margin: 0 auto;
     padding: 20px;
 }
+h1 {
+    font-size: 50px;
+    width: 1200px;
+    margin: auto;
+    font-weight: normal;
+    padding-top: 40px;
+}
