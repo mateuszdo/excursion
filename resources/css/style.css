@@ -1,53 +1,30 @@
-html {
-    background-color:black;
-    color: white;
-    font-family: Verdana;
-
-}
 body {
-    width: 95vw;
-    background-color: black;
-    margin: auto;
-    align-items: center;
-    text-align: center;
+  background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
-section {
-    width: 80vw;
-    text-align: center;
-    align-items: center;
-    margin:  auto;
-    
+
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
+
 h1 {
-    font-size: 50px;
-    width: 95vw;
-    margin: auto;
-    font-weight: normal;
-    padding-top: 40px;
-   
+  font-size: 50px;
+  font-weight: normal;
 }
+
 h2 {
-    font-size: 42px;
-    font-weight: 300;
-    text-align: center;
-   
+  font-size: 42px;
+  font-weight: 300;
 }
-h3 {
-    font-size: 21px;
-    color: gray;
-    text-align: center;
-    font-weight: 150;
+
+p {
+  font-size: 21px;
+  color: gray;
 }
- a, p {
-    color: aquamarine;
-    font-size: 16px;
-    text-align: center;
-    text-decoration: underline;
-    font-weight: 200;
-}
-h4 {
-    text-align: right;
-    color: gray;
-    font-size: 20px;
-    font-weight: 250;
-}
+
+.footer {
+  text-align: right;
+} 
