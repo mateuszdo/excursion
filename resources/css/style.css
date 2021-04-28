@@ -3,3 +3,8 @@ html {
     color: white;
     font-family: Verdana;
 }
+body {
+    width: 78vw;
+    background-color: black;
+    margin: auto;
+}
